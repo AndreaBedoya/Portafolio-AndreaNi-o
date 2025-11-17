@@ -431,6 +431,9 @@ section{
     .services{
         justify-content: center;
     }
+    .services-box{
+       padding: 0; 
+    }
     .heading{
         font-size: 1.8rem;
     }
